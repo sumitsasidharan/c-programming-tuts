@@ -30,8 +30,8 @@ void main()
                person[i].name,
                &person[i].day,
                person[i].month,
-               &person[i].year, &m);
-      person[i].salary = m;
+               &person[i].year, &person[i].salary);
+      // person[i].salary = m;
    }
 
    printf("\nOutput Values\n");
