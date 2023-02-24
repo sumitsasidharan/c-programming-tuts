@@ -1,3 +1,4 @@
+// 3. Write a C program - using gets() and puts() do display the input character
 
 #include <stdio.h>
 #include <conio.h>

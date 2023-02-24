@@ -1,6 +1,4 @@
-// Write a C program, to find both the largest and smallest number in a list of integers using an Array.
-// b. Write a C program, to add two matrices using an Array.
-// c. Write a C program, to multiply two matrices using an Array
+// 7a. Write a C program, to find both the largest and smallest number in a list of integers using an Array.
 
 #include <stdio.h>
 #include <conio.h>

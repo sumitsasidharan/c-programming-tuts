@@ -1,4 +1,4 @@
-// Program to find
+// 1. Write a C program to find the sum of individual digits of a positive integer.
 
 #include <stdio.h>
 #include <conio.h>

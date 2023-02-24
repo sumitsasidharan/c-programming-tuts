@@ -1,4 +1,4 @@
-// Program to find
+// 6. Write a C Program to extract a portion of a string from a character string
 
 #include <stdio.h>
 #include <string.h>

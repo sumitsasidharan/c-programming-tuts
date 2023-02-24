@@ -1,4 +1,4 @@
-// Write a C program – using structures for reading the employee details like employee name, date of joining and salary and also to compute Total salary outgo for a month.
+// 8. Write a C program – using structures for reading the employee details like employee name, date of joining and salary and also to compute Total salary outgo for a month
 
 #include <stdio.h>
 #include <conio.h>

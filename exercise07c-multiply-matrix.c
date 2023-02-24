@@ -1,4 +1,4 @@
-// b. Write a C program, to multiply two matrices using an Array.
+// 7c. Write a C program, to multiply two matrices using an Array.
 
 #include <stdio.h>
 #include <conio.h>

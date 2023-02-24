@@ -1,4 +1,4 @@
-// Program to find the largest number 
+// 4. Write a C Program - using if else statements, to find the largest number among the given two integer numbers.
 
 #include <stdio.h>
 #include <conio.h>

@@ -1,4 +1,4 @@
-// Program to find a factorial of a given number
+// 5. Write a C program to find the factorial of a given integer number using both recursive and non-recursive functions
 
 #include <stdio.h>
 #include <conio.h>

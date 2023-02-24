@@ -1,4 +1,4 @@
-// Read and write data to file.
+// 11. Write a program to read data from the keyboard, write it to a file called INPUT, again read the same data from the INPUT file, and copy to that another file and also display it on the screen
 
 #include <stdio.h>
 #include <conio.h>

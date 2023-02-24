@@ -1,4 +1,4 @@
-// Using Switch. Write a C program, which takes two integer operands and one operator form the user performs the operation and then prints the result.
+// 2. Write a C program, which takes two integer operands and one operator form the user performs the operation and then prints the result.(Consider the operators +,-,*, /, % and use Switch Statement).
 
 #include <stdio.h>
 #include <conio.h>

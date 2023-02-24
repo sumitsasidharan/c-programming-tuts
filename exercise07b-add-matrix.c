@@ -1,4 +1,4 @@
-// b. Write a C program, to add two matrices using an Array.
+// 7b. Write a C program, to add two matrices using an Array.
 
 #include <stdio.h>
 #include <conio.h>
