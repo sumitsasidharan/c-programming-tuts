@@ -98,21 +98,37 @@ The C language is accompanied by a number of library functions or built in funct
 Functionally similar library functions are usually grouped together as object programs in separate library files. A library function is accessed simply by writing the function name, followed by a list of arguments that represent information being passed to the function. A function that returns a data item can appear anywhere within an expression in place of a constant or an identifier. A function that carries out operations on data items but does
 
 abs(i) - Return the absolute value of ( i is integer)
+
 ceil(d) - Round up to the next integer value(the smallest integer that is greater than or equal to d)
+
 cos(d) - Return the cosine of d
+
 exp(d) - Raise e to the power d(e=Naperian constant)
+
 fabs(d) - Return the absolute value of d(d is double)
+
 floor(d) - Round down to the next integer value(the largest integer that does not exceed d)
+
 getchar() - Enter a character from the standard input device
+
 log(d) - Return the natural logarithm of d
+
 pow(d1,d2) - Return d1 raised to the power d2
+
 putchar(c) - Send a character to the standard output device
+
 rand() - Return a random positive integer
+
 sin(d) - Return sine of d
+
 sqrt(d) - Return the square root of d
+
 tan(d) - Return the tangent of d
+
 toascii(c) - Convert value of argument to ASCII
+
 tolower(c) - Convert letter to lowercase
+
 toupper(c) - Convert letter to uppercase
 
 
@@ -134,8 +150,11 @@ There are times when the output generated out of a program after its compilation
 Let us look at a few reasons why file handling makes programming easier for all:
 
 **Reusability**: File handling allows us to preserve the information/data generated after we run the program.
+
 **Saves Time**: Some programs might require a large amount of input from their users. In such cases, file handling allows you to easily access a part of a code using individual commands.
+
 **Commendable storage capacity**: When storing data in files, you can leave behind the worry of storing all the info in bulk in any program.
+
 **Portability**: The contents available in any file can be transferred to another one without any data loss in the computer system. This saves a lot of effort and minimises the risk of flawed coding.
 
 | Description of Function | Function in Use |
@@ -174,12 +193,7 @@ A few more differences between both of them are in the comparison chart below:
 | Instantiation | One can create an object from the structure after a later declaration in its program. | An array does not allow the creation of an object after the declaration. |
 | Types of Data Type Variables | A structure includes multiple forms of data-type variables in the form of input. | A user cannot have multiple forms of data-type variables in an array because it supports only the same form of data-type variables. |
 | Performance | A structure becomes very slow in performance due to the presence of multiple data-types. The process of searching and accessing elements becomes very slow in these. | The process of searching and accessing elements is much faster in the case of an array due to the absence of multiple data-type variables. It is, thus, better and faster in performance. |
-| Syntax | struct sructure_name{
-element type 1;
-element type 2;
-.
-.
-} variable no.1, variable no.2, . .; | `type name_of_array [size]` |
+| Syntax | struct sructure_name{ element type 1; element type 2; } variable no.1, variable no.2, . .; | `type name_of_array [size]` |
 | Bit Field | You can define a Bit field in a structure. | You cannot define a Bit field in an array. |
 | Access | You can access the Structure elements by their names. | You can access the Array elements by their index numbers. |
 | Operators | The element accessing operator for a structure is a dot operator “.“ | The element accessing operator and declaration for an array is a square bracket [ ] |
