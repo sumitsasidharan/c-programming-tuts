@@ -86,6 +86,8 @@ The “#include” preprocessor is responsible for directing the compiler that t
 
 ### Modulus Operator 
 
+Link: https://byjus.com/gate/modulus-operator-in-c/
+
 The modulus operator % gives you the remainder when two integers are divided: 1 % 2 is 1; 7 % 4 is 3. (The modulus operator can only be applied to integers.)
 
  The modulus operator is added in the arithmetic operators in C, and it works between two available operands. It divides the given numerator by the denominator to find a result. In simpler words, it produces a remainder for the integer division. Thus, the remainder is also always an integer number only. If there is no remainder obtained, then we get the remainder as zero (0).
